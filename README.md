@@ -25,3 +25,6 @@ This project simulates an AI workflow including model selection, prompt input, a
 
 ## Purpose
 This PoC demonstrates improvements proposed for API Dash, focusing on better UX, error handling, and clarity in AI interactions.
+
+## Live Demo
+https://ai-model-playground-zeta.vercel.app/
