@@ -3,7 +3,7 @@
 > A clean and user-friendly interface for experimenting with AI model interactions.
 
 ## Preview 
-![Preview](screenshot.png)
+![Preview](demoscreenshot.png)
 
 ## Overview
 This project is a Proof of Concept (PoC) for improving AI model handling and user experience in API Dash.
